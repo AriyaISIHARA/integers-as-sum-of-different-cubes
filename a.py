@@ -17,10 +17,10 @@ def _main():
         for i, breakdown in res.items():
             _q(res, i + c, updates, breakdown, n)
             _q(res, i - c, updates, breakdown, -n)
-        while wanted in updates:
-            print(f"{wanted}: {updates[wanted]}")
-            wanted += 1
         res.update(updates)
+        while wanted in res:
+            print(f"{wanted}: {res[wanted]}")
+            wanted += 1
         n += 1
 
 
