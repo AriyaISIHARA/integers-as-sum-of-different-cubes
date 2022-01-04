@@ -20,13 +20,3 @@ hopefully runs on 3.6 or later.
 ## installation
 - open 'a.py' by any viewer
 - type it on any editor
-
-## result
-```
-1: (1,)
-2: (-5, -6, 7)
-3: (1, -5, -6, 7)
-4: (-1, -2, 3, 4, -5, 6, 7, -8)
-```
-and then my PC got down.
-give me some more money.
