@@ -20,3 +20,7 @@ hopefully runs on 3.6 or later.
 ## installation
 - open 'a.py' by any viewer
 - type it on any editor
+
+## obsoleted
+the problem has been solved:
+https://qr.ae/pG6kP1
